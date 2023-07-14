@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: rgb(34, 25, 25);
+    font-family: 'poppins', sans-serif;
+    color: white;
+}
+div.aboutheading h2{
+    margin: 8px;
+    position: fixed;
+   
+}
+.aboutlogo{
+    height: 170px;
+    margin: 20px;
+    border: 2px solid rgb(7, 7, 65) ;
+    border-radius: 400px;
+    
+}
+.bachelor{
+    background-color: brown;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 18px;
+}
+.FSc{
+    background-color: brown;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 18px;
+}
+.matric{
+    background-color: brown;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 18px;
+}

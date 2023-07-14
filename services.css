@@ -1,0 +1,68 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.body{
+   background-color: rgb(34, 7, 7);
+   color: white;
+   margin: 8px;
+    
+}
+.servicesrow{
+    margin-right: 10px;
+}
+.html{
+   
+    align-items: center;
+    
+}
+.htmlphoto{
+    height: 100px;
+    width: 100px;
+    margin-right: 5px;
+}
+.html:hover::after{
+    
+    content: "I can create different type of websites using html. I have full command on html. As it is the backbone of building any type of website. ";
+    background-color: rgb(46, 46, 70);
+    padding: 5px 0px;
+}
+.css{
+    align-items: center;
+    padding: 10px;
+}
+.css:hover::after{
+    
+    content: "Without CSS any site is incomlete. So I try my best to make the site more beautiful and attractive";
+    background-color: rgb(46, 46, 70);
+    padding: 5px 5px;
+    margin: 3px;
+}
+.bootstrap:hover::after{
+    content: "Bootstrap have made the CSS more easy and amazing. it creates very good results. Now adays the developers tends to use bootstap";
+    background-color: rgb(46, 46, 70);
+    padding: 5px 5px;
+    margin: 3px;
+}
+.js:hover::after{
+    content: "As without javascript we can not create interactive and dynamic websites. js is meant to make the site interactive and dynamic.  ";
+    background-color: rgb(46, 46, 70);
+    padding: 5px 5px;
+    margin: 3px;
+}
+.msofficephoto{
+    border:1px solid black;
+    border-radius: 25px;
+    height: 80px;
+    width: 80px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.msoffice:hover::after{
+    content: "Being the student of computer science every student must know about the MSoffice. I have full command on MSoffice, to solve my all problem.";
+    background-color: rgb(46, 46, 70);
+    padding: 5px 5px;
+    margin: 3px;
+}
