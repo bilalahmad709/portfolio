@@ -2,11 +2,14 @@
     padding: 0px;
     margin: 0px;
 }
+
 .body{
     background-color: rgb(24, 24, 39);
     color: white;
     font-family: 'poppins', sans-serif;
 }
+
+
 .phone{
     height: 50px;
     width: 50px;
